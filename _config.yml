@@ -23,7 +23,7 @@ repository               : "mohamedkhaledr0-ai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.jpg"
   name             : "Mohamed Khaled"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
