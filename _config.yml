@@ -24,13 +24,13 @@ repository               : "mohamedkhaledr0-ai.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mohamed Khaled"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student"
+  location         : "Paris"
+  employer         : "Intitut Pasteur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mohamedkhaledhosny.s@gmail.com" 
 
   # Academic websites
   academia         : # URL
